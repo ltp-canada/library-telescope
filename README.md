@@ -5,4 +5,4 @@ See [librarytelescope.org](https://www.librarytelescope.org/) for more informati
 
 For the moment, the activity in this project will be in the [wiki](https://github.com/ltp-canada/library-telescope/wiki), and on the [issues](https://github.com/ltp-canada/library-telescope/issues) page. 
 
-_To contribute to the wiki and issues pages, all you need is a github account._
+To contribute to the wiki and issues pages, all you need is a github account.
