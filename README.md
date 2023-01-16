@@ -1,5 +1,5 @@
 # library-telescope
-The project: getting easy-to-use telescopes into Canadian public libraries.
+**Resources for getting easy-to-use telescopes into Canadian public libraries.**
 
 For the moment, the activity in this project will be in the [wiki](https://github.com/ltp-canada/library-telescope/wiki), and to a lesser extent on the [issues](https://github.com/ltp-canada/library-telescope/issues) page. 
 
